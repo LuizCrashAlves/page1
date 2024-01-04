@@ -37,7 +37,7 @@ body {
 }
 .background {
     display: flex;
-    background-image: url(/imagens/mountains1.jpg);
+    background-image: url(https://luizcrashalves.github.io/page1/imagens/mountains1.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
